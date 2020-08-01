@@ -1,15 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to [Tri33ple] Pages
 
-You can use the [editor on GitHub](https://github.com/7pub/tri33ple/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use any [3SApp @CALIRUN](https://) to maintain a higher standard as the rest of the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, Tri33le Pages will rebuild the pages after your session.
+This should be with everthing on the web, frankly it isn`t.
 
-### Markdown
+### Non Profit for real
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[3S] will be the ID for the Apps that are designed within the Philosophy. It is a lightweight 
+and easy-to-use Design. The code of conduct is states the [3S]Apps folloing the syntax for styling 
+as writing. It includes conventions for being as most usable as ordanry applications without using 
+any privacy-compromising service at all. 
 
 ```markdown
-Syntax highlighted code block
+Syntax code block
 
 # Header 1
 ## Header 2
